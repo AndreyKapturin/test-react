@@ -1,0 +1,13 @@
+.header {
+    width: 100%;
+    background-color: crimson;
+    padding: 12px 0;
+    color: white;
+    font-size: 18px;
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
