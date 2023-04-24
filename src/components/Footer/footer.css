@@ -1,0 +1,25 @@
+.footer_conteiner {
+  padding: 25px;
+  height: 150px;
+  background-color: #a5a4a2;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.logo {
+  width: 200px;
+  height: 100px;
+}
+.footer__social {
+  padding-left: 20px;
+}
+.footer__info {
+  height: 150px;
+}
+.footer__link {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}

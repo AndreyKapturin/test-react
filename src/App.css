@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+h3 {
+  margin: 0;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
